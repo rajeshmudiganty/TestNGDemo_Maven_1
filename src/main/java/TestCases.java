@@ -4,7 +4,7 @@ public class TestCases {
 
     @Test
     void test1(){
-    System.out.println("I am inside test1");
+    System.out.println("I am inside test");
 
 }
 
